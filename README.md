@@ -9,14 +9,12 @@
   &nbsp;
 
 ### Languages and Tools 👩🏻‍🔧
-
 HTML | CSS | JavaScript | React | JWT |
 Bootstrap | GIT & Github | Jest | Python |
 REST API | SQL | Flask | SQL Alchemy
 &nbsp;
 
-### Resume ⭐
-<a href="https://drive.google.com/file/d/1l4Ygr2DQHZcvHhFVrncIdw8y_DEou_xM/view?usp=share_link">Click here</a>
+### Resume ⭐<a href="https://drive.google.com/file/d/1iqL26Auk8nk2e3-UyTJ_ELCw_mLb3TEQ/view?usp=sharing">Click here</a>
 
 ### My stats 🚀
 
